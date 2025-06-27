@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "settings": {
+    "appearanceTools": false,
+    "color": {
+      "custom": false,
+      "palette": []
+    },
+    "typography": {
+      "customFontSize": false,
+      "fontSizes": []
+    },
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1200px"
+    }
+  }
+}
